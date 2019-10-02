@@ -31,6 +31,7 @@
     width: 49%;
     background-color: #1c7430;
 }
+
 #implementweek2 .contact input[type="text"],
 .contact input[type="email"],
 .contact input[type="tel"],
@@ -45,7 +46,6 @@
 #implementweek2 .contact {
     background: #F9F9F9;
     padding: 25px;
-    margin: 150px 0;
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
 }
 
@@ -55,6 +55,7 @@
     font-weight: 300;
     margin-bottom: 10px;
 }
+
 fieldset {
     border: medium none !important;
     margin: 0 0 10px;
@@ -67,13 +68,13 @@ fieldset {
 .contact input[type="email"],
 .contact input[type="tel"],
 .contact input[type="url"],
-/*#contact textarea {*/
-/*    width: 100%;*/
-/*    border: 1px solid #ccc;*/
-/*    background: #FFF;*/
-/*    margin: 0 0 5px;*/
-/*    padding: 10px;*/
-/*}*/
+    /*#contact textarea {*/
+    /*    width: 100%;*/
+    /*    border: 1px solid #ccc;*/
+    /*    background: #FFF;*/
+    /*    margin: 0 0 5px;*/
+    /*    padding: 10px;*/
+    /*}*/
 
 .contact input[type="text"]:hover,
 .contact input[type="email"]:hover,
@@ -138,4 +139,15 @@ fieldset {
 
 :-ms-input-placeholder {
     color: #888;
+}
+
+/*code*/
+.bt {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bt .btl, .btr {
+    width: 20%;
+    margin-inline-end: 5px;
 }
