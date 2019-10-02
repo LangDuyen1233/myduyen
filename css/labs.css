@@ -1,0 +1,14 @@
+#designweek2 .bound {
+    width: 100%;
+}
+
+#designweek2 .bound .designimage {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#designweek2 .bound .designleft, .designright {
+    width: 100%;
+
+}
