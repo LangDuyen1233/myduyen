@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32787ffd-2d3f-4d02-839d-14aeab914697" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html/temp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/labs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/labs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/labs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/labs.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/labs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bai1.PNG" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/des.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +70,7 @@
       <workItem from="1570070275814" duration="5754000" />
       <workItem from="1570087027531" duration="601000" />
       <workItem from="1570094071514" duration="2264000" />
-      <workItem from="1570111906606" duration="4117000" />
+      <workItem from="1570111906606" duration="4815000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1570022695554</created>
