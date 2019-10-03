@@ -12,27 +12,25 @@
     width: 100%;
 }
 
-#implementweek2 .form {
+#implement .form {
     width: 100%;
     display: flex;
     justify-content: space-between;
-    /*max-width: 400px;*/
-    /*width: 100%;*/
     margin: 0 auto;
     position: relative;
 }
 
-#implementweek2 .form .formAdd {
+#implement .form .formAdd {
     width: 45%;
     background-color: #0c5460;
 }
 
-#implementweek2 .form .formEdit {
+#implement .form .formEdit {
     width: 49%;
     background-color: #1c7430;
 }
 
-#implementweek2 .contact input[type="text"],
+#implement .contact input[type="text"],
 .contact input[type="email"],
 .contact input[type="tel"],
 .contact input[type="url"],
@@ -43,13 +41,13 @@
     padding: 10px;
 }
 
-#implementweek2 .contact {
+#implement .contact {
     background: #F9F9F9;
     padding: 25px;
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
 }
 
-#implementweek2 .contact h3 {
+#implement .contact h3 {
     display: block;
     font-size: 30px;
     font-weight: 300;
@@ -146,8 +144,31 @@ fieldset {
     display: flex;
     justify-content: flex-end;
 }
+.bt .btl button{
+    background-color: #ff253a;
+}
+.bt .btl button:hover{
+    background-color: #ff0323;
+}
+.bt .btr button{
+    background-color: #1c7430;
+}
 
 .bt .btl, .btr {
     width: 20%;
     margin-inline-end: 5px;
+}
+#implement .container{
+    margin-top: 2em;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.menu input{
+    background-color: #f1efef;
+    margin-left: 350px;
+    border: 1px solid #f3f1f1;
 }

@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #implementweek2 .form {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            /*max-width: 400px;*/
+            /*width: 100%;*/
+            margin: 0 auto;
+            position: relative;
+        }
+
+        #implementweek2 .form .formAdd {
+            width: 45%;
+            background-color: #0c5460;
+        }
+
+        #implementweek2 .form .formEdit {
+            width: 49%;
+            background-color: #1c7430;
+        }
+
+        #implementweek2 .contact input[type="text"],
+        .contact input[type="email"],
+        .contact input[type="tel"],
+        .contact input[type="url"],
+        .contact textarea,
+        .contact button[type="submit"] {
+            font: 400 12px/16px "Roboto", Helvetica, Arial, sans-serif;
+            width: 100%;
+            padding: 10px;
+        }
+
+        #implementweek2 .contact {
+            background: #F9F9F9;
+            padding: 25px;
+            box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+        }
+
+        #implementweek2 .contact h3 {
+            display: block;
+            font-size: 30px;
+            font-weight: 300;
+            margin-bottom: 10px;
+        }
+
+        fieldset {
+            border: medium none !important;
+            margin: 0 0 10px;
+            min-width: 100%;
+            padding: 0;
+            /*width: 100%;*/
+        }
+
+        .contact input[type="text"],
+        .contact input[type="email"],
+        .contact input[type="tel"],
+        .contact input[type="url"],
+            /*#contact textarea {*/
+            /*    width: 100%;*/
+            /*    border: 1px solid #ccc;*/
+            /*    background: #FFF;*/
+            /*    margin: 0 0 5px;*/
+            /*    padding: 10px;*/
+            /*}*/
+
+        .contact input[type="text"]:hover,
+        .contact input[type="email"]:hover,
+        .contact input[type="tel"]:hover,
+        .contact input[type="url"]:hover,
+        .contact textarea:hover {
+            -webkit-transition: border-color 0.3s ease-in-out;
+            -moz-transition: border-color 0.3s ease-in-out;
+            transition: border-color 0.3s ease-in-out;
+            border: 1px solid #aaa;
+        }
+
+        /*#contact textarea {*/
+        /*    height: 100px;*/
+        /*    !*max-width: 100%;*!*/
+        /*    resize: none;*/
+        /*}*/
+
+        .contact button[type="submit"] {
+            cursor: pointer;
+            /*width: 100%;*/
+            border: none;
+            background: #4CAF50;
+            color: #FFF;
+            margin: 0 0 5px;
+            padding: 10px;
+            font-size: 15px;
+        }
+
+        .contact button[type="submit"]:hover {
+            background: #43A047;
+            -webkit-transition: background 0.3s ease-in-out;
+            -moz-transition: background 0.3s ease-in-out;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .contact button[type="submit"]:active {
+            box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
+        }
+
+        .copyright {
+            text-align: center;
+        }
+
+        .contact input:focus,
+        .contact textarea:focus {
+            outline: 0;
+            border: 1px solid #aaa;
+        }
+
+        ::-webkit-input-placeholder {
+            color: #888;
+        }
+
+        :-moz-placeholder {
+            color: #888;
+        }
+
+        ::-moz-placeholder {
+            color: #888;
+        }
+
+        :-ms-input-placeholder {
+            color: #888;
+        }
+
+        /*code*/
+        .bt {
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .bt .btl, .btr {
+            width: 20%;
+            margin-inline-end: 5px;
+        }
+        #implementweek2 .container{
+            margin-top: 2em;
+        }
+        .menu{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+        }
+        .menu input{
+            background-color: #f1efef;
+            margin-left: 350px;
+            border: 1px solid #f3f1f1;
+        }
+
+    </style>
+</head>
+<body>
+<div class="contentImplement">
+    <div class="form">
+        <div class="formAdd">
+            <form class="contact" action="" method="post">
+                <h3>Add a new book</h3>
+                <fieldset>
+                    <input placeholder="Name" type="text" tabindex="1" required
+                           autofocus>
+                </fieldset>
+                <fieldset>
+                    <input placeholder="Author" type="email" tabindex="2"
+                           required>
+                </fieldset>
+                <fieldset>
+                    <input placeholder="Caterory" type="tel"
+                           tabindex="3" required>
+                </fieldset>
+                <fieldset>
+                    <input placeholder="Price" type="url"
+                           tabindex="4" required>
+                </fieldset>
+                <fieldset>
+                    <input placeholder="Pages" type="url"
+                           tabindex="4" required>
+                </fieldset>
+                <fieldset>
+                    <div class="bt">
+                        <div class="btl">
+                            <button name="submit" type="submit" id="contact-submit11"
+                                    data-submit="...Sending">Cancel
+                            </button>
+                        </div>
+                        <div class="btr">
+                            <button name="submit" type="submit" id="contact-submit12"
+                                    data-submit="...Sending">Add
+                            </button>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+        <div class="formEdit">
+            <form class="contact" action="" method="post">
+                <h3>Add a book</h3>
+                <fieldset>
+                    <input placeholder="Your name" type="text" tabindex="1" required
+                           autofocus>
+                </fieldset>
+                <fieldset>
+                    <input placeholder="Your Email Address" type="email" tabindex="2"
+                           required>
+                </fieldset>
+                <fieldset>
+                    <input placeholder="Your Phone Number (optional)" type="tel"
+                           tabindex="3" required>
+                </fieldset>
+                <fieldset>
+                    <input placeholder="Your Web Site (optional)" type="url"
+                           tabindex="4" required>
+                </fieldset>
+                <fieldset>
+                    <input placeholder="Your Web Site (optional)" type="url"
+                           tabindex="4" required>
+                </fieldset>
+                <fieldset>
+                    <div class="bt">
+                        <div class="btl">
+                            <button name="submit" type="submit" id="contact-submit13"
+                                    data-submit="...Sending">Cancel
+                            </button>
+                        </div>
+                        <div class="btr">
+                            <button name="submit" type="submit" id="contact-submit14"
+                                    data-submit="...Sending">Save
+                            </button>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+
+        </div>
+    </div>
+</div>
+<div class="container contact">
+    <div class="menu">
+        <h1 class="header">Books</h1>
+        <input name="search" type="text" placeholder="Search...">
+    </div>
+    <table class="table" id="book-table">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Author</th>
+            <th>Caterory</th>
+            <th>Price</th>
+            <th>Pages</th>
+        </tr>
+        <tbody>
+        <tr>
+            <td>1</td>
+            <td>Đắc Nhân Tâm</td>
+            <td>Fujiko Fujio</td>
+            <td>Self_help</td>
+            <td>100.000đ</td>
+            <td>100</td>
+            <td>
+                <button type="button" class="btn btn-edit" data-toggle="modal"
+                        data-target="#myModalEdit">
+                    <i class="fas fa-pencil-alt"></i>&ensp;Edit
+                </button>
+            </td>
+            <td>
+                <button type="button" class="btn btn-delete">
+                    <i class="fas fa-trash-alt"></i>&ensp; Delete
+                </button>
+            </td>
+        </tr>
+        <tr class="even">
+            <td>2</td>
+            <td>Đắc Nhân Tâm</td>
+            <td>Fujiko Fujio</td>
+            <td>Self_help</td>
+            <td>100.000đ</td>
+            <td>100</td>
+            <td>
+                <button type="button" class="btn btn-edit" data-toggle="modal"
+                        data-target="#myModalEdit">
+                    <i class="fas fa-pencil-alt"></i>&ensp;Edit
+                </button>
+            </td>
+            <td>
+                <button type="button" class="btn btn-delete">
+                    <i class="fas fa-trash-alt"></i> &ensp;Delete
+                </button>
+            </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Đắc Nhân Tâm</td>
+            <td>Fujiko Fujio</td>
+            <td>Self_help</td>
+            <td>100.000đ</td>
+            <td>100</td>
+            <td>
+                <button type="button" class="btn btn-edit" data-toggle="modal"
+                        data-target="#myModalEdit">
+                    <i class="fas fa-pencil-alt"></i>&ensp;Edit
+                </button>
+            </td>
+            <td>
+                <button type="button" class="btn btn-delete">
+                    <i class="fas fa-trash-alt"></i>&ensp; Delete
+                </button>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>

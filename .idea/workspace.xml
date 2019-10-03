@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32787ffd-2d3f-4d02-839d-14aeab914697" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html/temp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/labs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/labs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/labs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/labs.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/labs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Bai1.PNG" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -28,7 +33,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/download/Rapid" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -65,7 +70,12 @@
       <workItem from="1569844864127" duration="786000" />
       <workItem from="1569900777628" duration="1244000" />
       <workItem from="1569915284892" duration="30000" />
-      <workItem from="1570017850099" duration="8749000" />
+      <workItem from="1570017850099" duration="8958000" />
+      <workItem from="1570064806552" duration="3953000" />
+      <workItem from="1570070275814" duration="5754000" />
+      <workItem from="1570087027531" duration="601000" />
+      <workItem from="1570094071514" duration="2264000" />
+      <workItem from="1570111906606" duration="4117000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1570022695554</created>
@@ -88,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570025463491</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ds">
+      <created>1570027400751</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570027400751</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,7 +116,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -107,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="d" />
-    <option name="LAST_COMMIT_MESSAGE" value="d" />
+    <MESSAGE value="ds" />
+    <option name="LAST_COMMIT_MESSAGE" value="ds" />
   </component>
 </project>
