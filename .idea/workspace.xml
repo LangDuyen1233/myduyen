@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32787ffd-2d3f-4d02-839d-14aeab914697" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/fontawesome/LICENSE.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +73,8 @@
       <workItem from="1570087027531" duration="601000" />
       <workItem from="1570094071514" duration="2264000" />
       <workItem from="1570111906606" duration="5038000" />
-      <workItem from="1570153143095" duration="7919000" />
+      <workItem from="1570153143095" duration="8495000" />
+      <workItem from="1570162976470" duration="3299000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1570022695554</created>
