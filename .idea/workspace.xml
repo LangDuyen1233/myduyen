@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32787ffd-2d3f-4d02-839d-14aeab914697" name="Default Changelist" comment="" />
+    <list default="true" id="32787ffd-2d3f-4d02-839d-14aeab914697" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/labs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/labs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/labs.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/labs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/temp.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/temp.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/Web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GTNM" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -34,6 +40,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DAIHOC_HK5\GTNM_C.Nga\MobApp-colorlib\myduyen\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,6 +81,10 @@
       <workItem from="1570111906606" duration="5038000" />
       <workItem from="1570153143095" duration="8495000" />
       <workItem from="1570162976470" duration="4066000" />
+      <workItem from="1570602435608" duration="4268000" />
+      <workItem from="1570621804294" duration="2740000" />
+      <workItem from="1570637642225" duration="1322000" />
+      <workItem from="1570668410820" duration="6844000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1570022695554</created>
