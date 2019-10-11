@@ -3596,7 +3596,7 @@ tbody.collapse.show {
     padding-top: .3125rem;
     padding-bottom: .3125rem;
     margin-right: 1rem;
-    font-size: 1.25rem;
+    font-size: 2rem;
     line-height: inherit;
     white-space: nowrap
 }
@@ -3993,7 +3993,7 @@ tbody.collapse.show {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: rgba(255, 255, 255, .5)
+    color: rgba(0, 253, 230, 0.5);
 }
 
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
@@ -4006,6 +4006,7 @@ tbody.collapse.show {
 
 .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
     /*color: #fff*/
+    /*background-color: #1c7430;*/
 }
 
 .navbar-dark .navbar-toggler {

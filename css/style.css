@@ -62,7 +62,7 @@ h2 {
 
 h3 {
     color: #174ecc;
-    font-size: 33px;
+    font-size: 25px;
     font-weight: 500;
 }
 
@@ -154,7 +154,7 @@ p.lead {
 }
 
 .section {
-    padding: 80px 0;
+    padding: 40px 0;
 }
 
 .section-title {
@@ -207,11 +207,11 @@ p.lead {
     .navbar-expand-lg .navbar-nav .nav-link {
         padding-right: 1rem;
         padding-left: 1rem;
-        font-size: 14px;
+        font-size: 17px;
     }
     .navbar-nav>.nav-item>.nav-link.active:after {
         content: "";
-        border-bottom: 2px solid #cd99d4;
+        border-bottom: 2px solid #77d2d0;
         left: 1rem;
         right: 1rem;
         bottom: 5px;
@@ -433,10 +433,16 @@ header {
 }
 
 .nav-tabs .nav-link.active {
-    background: #FFF;
+    /*background: #FFF;*/
+    /*border-top-width: 3px;*/
+    /*border-color: #b7eefd #faf6fb #FFF;*/
+    /*color: #633991;*/
+    background: #e3dbef;
     border-top-width: 3px;
-    border-color: #b7eefd #faf6fb #FFF;
-    color: #633991;
+    border-color: #b1abc1;
+    color: #4f1b88;
+    font-size: 19px;
+    border-radius: 5px 30px;
 }
 
 

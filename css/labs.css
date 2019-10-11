@@ -12,6 +12,12 @@
     width: 100%;
 }
 
+/*requament week1*/
+#Labs1 #implement .contents {
+    margin-left: 3%;
+}
+
+/**/
 #implement .form {
     width: 100%;
     display: flex;
@@ -138,8 +144,53 @@ fieldset {
 :-ms-input-placeholder {
     color: #888;
 }
+#implement .bton{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    padding: 10px 30px;
+    border-radius: 10px;
+    outline-style: none;
+    box-shadow: 6px 7px #ccd8d7;
+    margin-left: 40%;
+    margin-top: 2%;
+}
+#implement .bton a{
+    color: #0b1bda;
+    font-size: 18px;
+    text-decoration: none;
+}
 
-/*code*/
+/*design week1*/
+#design .designleft {
+    text-align: center;
+    margin-block-end: 2em;
+}
+
+#design .designleft img {
+    border: 1px solid #c1c3c7;
+    border-radius: 10px;
+    box-shadow: 15px 15px #d8d8d8;
+}
+
+#design .designimage button {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 10px;
+    outline-style: none;
+    box-shadow: 6px 7px #ccd8d7;
+    margin-left: 45%;
+}
+
+#design .designimage button a {
+    color: #0b1bda;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+/*plement week1*/
 .bt {
     display: flex;
     justify-content: flex-end;
@@ -223,7 +274,7 @@ fieldset {
 }
 
 #category-products .product-title a {
-    font-size: 25px;
+    font-size: 20px;
     margin: 50px;
 }
 
@@ -275,4 +326,32 @@ fieldset {
 
 #category-products .product-image img {
     margin-left: 40px;
+}
+/*desgn week2*/
+#designweek2 .designleft {
+    text-align: center;
+    margin-block-end: 2em;
+}
+
+#designweek2 .designleft img {
+    border: 1px solid #c1c3c7;
+    border-radius: 10px;
+    box-shadow: 15px 15px #d8d8d8;
+}
+
+#designweek2 .designimage button {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 10px;
+    outline-style: none;
+    box-shadow: 6px 7px #ccd8d7;
+    margin-left: 45%;
+}
+
+#designweek2 .designimage button a {
+    color: #0b1bda;
+    font-size: 18px;
+    text-decoration: none;
 }
