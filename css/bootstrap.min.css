@@ -3552,11 +3552,12 @@ tbody.collapse.show {
 }
 
 .nav-justified .nav-item {
-    -ms-flex-preferred-size: 0;
+    /*///*/
     flex-basis: 0;
     -ms-flex-positive: 1;
-    flex-grow: 1;
-    text-align: center
+    flex-grow: 0.1;
+    text-align: center;
+    margin-inline-end: 25px;
 }
 
 .tab-content > .tab-pane {
