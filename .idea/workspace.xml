@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32787ffd-2d3f-4d02-839d-14aeab914697" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/background-image.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image_labs3/image_f_pattern.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image_labs3/image_z_pateern_write.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image_labs3/image_z_pattern.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image_labs3/image_z_pattern_listen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image_labs3/image_z_pattern_speak.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="32787ffd-2d3f-4d02-839d-14aeab914697" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +91,7 @@
       <workItem from="1571831177168" duration="9298000" />
       <workItem from="1571847141635" duration="3383000" />
       <workItem from="1571878970932" duration="3582000" />
-      <workItem from="1571885066362" duration="655000" />
+      <workItem from="1571885066362" duration="905000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1570022695554</created>
