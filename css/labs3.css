@@ -1,0 +1,208 @@
+#youtube {
+    height: 70px;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+    border-bottom: 3px solid #eaeaea;
+    padding: 0;
+    margin: 0;
+}
+
+#youtube .youtube ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    padding-top: 20px;
+}
+
+#youtube .youtube ul li {
+    margin-inline-end: 1em;
+    font-size: 1.5em;
+}
+
+#youtube .youtube ul li input {
+
+}
+
+#cons {
+    display: flex;
+    flex-flow: row;
+}
+
+#cons ul {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0;
+    align-items: center;
+}
+
+#cons ul li {
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+    font-size: 9px;
+
+}
+
+#cons ul li i {
+    display: inline;
+    justify-content: center;
+    text-align: center;
+    font-size: 18px;
+}
+
+#implementex1 {
+    padding: 0;
+}
+
+#implementex1 .right .col-md-4 {
+    left: 2%;
+}
+
+#implementex1 .right .col-md-7 {
+    right: 2.5%;
+}
+
+#implementex1 .right .fim1, .fim2, .fim3 {
+    margin-top: 1.5em;
+}
+
+#implementex1 .right p {
+    font-size: 13px;
+    line-height: 18px;
+}
+
+#implementex1 .right .fim3 {
+    margin-bottom: 1.5em;
+}
+
+#implementex2 {
+    /*border: 1px solid red;*/
+}
+
+#implementex2 #z_pattern_head {
+    height: 70px;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+    border-bottom: 3px solid #eaeaea;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+#implementex2 #z_pattern_head ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding: 0;
+    justify-content: flex-end;
+}
+
+#implementex2 #z_pattern_head ul li {
+    margin-inline-end: 1em;
+    font-size: 1em;
+}
+
+#implementex2 #z_pattern_head ul li a {
+    color: #0a98c0;
+    text-decoration: none;
+}
+
+#implementex2 #z_pattern_head ul .signin {
+    border: 1px solid;
+    padding: 0px 10px;
+}
+
+#implementex2 .pos_learn {
+    position: absolute;
+    top: 40%;
+    left: 33%;
+    text-align: center;
+}
+
+#implementex2 .pos_learn p {
+    line-height: 5px;
+    color: white;
+}
+
+#implementex2 .pos_learn .click {
+    background-color: #eeeeee;
+    border: 1px solid #c6d2da;
+    padding: 13px;
+    color: black;
+    border-radius: 29px;
+}
+
+#z_pattern_body {
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+}
+
+#z_pattern_body .learn {
+    padding: 10px;
+    color: #00aada;
+    background-color: #efecec;
+    border: 1px solid #d4c8c8;
+}
+
+#z_pattern_body img {
+    border-radius: 50%;
+    border: 1px solid;
+}
+
+#z_pattern_body .step {
+    text-align: center;
+}
+#designex2 .designleft {
+     text-align: center;
+     margin-block-end: 2em;
+ }
+
+#designex2 .designleft img {
+    border: 1px solid #c1c3c7;
+    border-radius: 10px;
+    box-shadow: 15px 15px #d8d8d8;
+}
+
+#designex2 button {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 10px;
+    outline-style: none;
+    box-shadow: 6px 7px #ccd8d7;
+    margin-left: 45%;
+}
+
+#designex2  button a {
+    color: #0b1bda;
+    font-size: 18px;
+    text-decoration: none;
+}
+#designex1 .designleft {
+    text-align: center;
+    margin-block-end: 2em;
+}
+
+#designex1 .designleft img {
+    border: 1px solid #c1c3c7;
+    border-radius: 10px;
+    box-shadow: 15px 15px #d8d8d8;
+}
+
+#designex1 button {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 10px;
+    outline-style: none;
+    box-shadow: 6px 7px #ccd8d7;
+    margin-left: 45%;
+}
+
+#designex1  button a {
+    color: #0b1bda;
+    font-size: 18px;
+    text-decoration: none;
+}

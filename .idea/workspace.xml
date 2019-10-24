@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32787ffd-2d3f-4d02-839d-14aeab914697" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html/Lab1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Lab2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Lab3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/labs3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/images_labs3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/labs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/ex1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/ex2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Web_group/project/education" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -98,6 +93,11 @@
       <workItem from="1571274513491" duration="8176000" />
       <workItem from="1571313342744" duration="6368000" />
       <workItem from="1571361624901" duration="8321000" />
+      <workItem from="1571398224384" duration="12480000" />
+      <workItem from="1571831177168" duration="9298000" />
+      <workItem from="1571847141635" duration="3383000" />
+      <workItem from="1571878970932" duration="3582000" />
+      <workItem from="1571885066362" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1570022695554</created>
