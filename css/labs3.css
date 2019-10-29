@@ -88,6 +88,7 @@
     margin: 0;
     text-align: center;
 }
+
 #implementex2 #z_pattern_head ul {
     display: flex;
     flex-direction: row;
@@ -152,10 +153,11 @@
 #z_pattern_body .step {
     text-align: center;
 }
+
 #designex2 .designleft {
-     text-align: center;
-     margin-block-end: 2em;
- }
+    text-align: center;
+    margin-block-end: 2em;
+}
 
 #designex2 .designleft img {
     border: 1px solid #c1c3c7;
@@ -166,19 +168,20 @@
 #designex2 button {
     margin-left: auto;
     margin-right: auto;
-    background-color: aliceblue;
-    padding: 10px 20px;
-    border-radius: 10px;
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
     outline-style: none;
-    box-shadow: 6px 7px #ccd8d7;
-    margin-left: 45%;
+    box-shadow: 4px 6px #ccd8d7;
+    margin-left: 40%;
 }
 
-#designex2  button a {
-    color: #0b1bda;
+#designex2 button a {
+    color: #fff;
     font-size: 18px;
     text-decoration: none;
 }
+
 #designex1 .designleft {
     text-align: center;
     margin-block-end: 2em;
@@ -193,16 +196,65 @@
 #designex1 button {
     margin-left: auto;
     margin-right: auto;
-    background-color: aliceblue;
-    padding: 10px 20px;
-    border-radius: 10px;
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
     outline-style: none;
-    box-shadow: 6px 7px #ccd8d7;
-    margin-left: 45%;
+    box-shadow: 4px 6px #ccd8d7;
+    margin-left: 40%;
 }
 
-#designex1  button a {
-    color: #0b1bda;
+#designex1 button a {
+    color: #fff;
     font-size: 18px;
+    text-decoration: none;
+}
+
+#designex2 button {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
+    outline-style: none;
+    box-shadow: 4px 6px #ccd8d7;
+    margin-left: 40%;
+}
+
+#designex2 button a {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#implementex1 .bton {
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
+    outline-style: none;
+    box-shadow: 4px 6px #ccd8d7;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+#implementex1 .bton a {
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.bton {
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
+    outline-style: none;
+    box-shadow: 4px 6px #ccd8d7;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+.bton a {
+    color: #fff;
+    font-size: 15px;
     text-decoration: none;
 }

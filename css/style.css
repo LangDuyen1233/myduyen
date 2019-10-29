@@ -182,7 +182,7 @@ p.lead {
 ----------------------*/
 
 .nav-menu {
-    padding: 1rem 0;
+    padding: 0rem 0;
     transition: all 0.3s ease;
 }
 
@@ -207,9 +207,9 @@ p.lead {
 
 @media (min-width: 992px) {
     .navbar-expand-lg .navbar-nav .nav-link {
-        padding-right: 1rem;
-        padding-left: 1rem;
-        font-size: 17px;
+        padding-right:0.6rem;
+        padding-left: 0.6rem;
+        font-size: 15px;
     }
 
     .navbar-nav > .nav-item > .nav-link.active:after {
@@ -238,7 +238,7 @@ p.lead {
 ----------------------*/
 
 header {
-    padding: 100px 0 0;
+    padding: 70px 0 0;
     text-align: center;
     color: #FFF;
 }
@@ -418,7 +418,8 @@ header {
 }
 
 .tab-content p {
-    line-height: 1.8;
+    line-height: 1;
+    font-size: 15px;
 }
 
 .tab-content h2 {
@@ -436,7 +437,7 @@ header {
     /*padding: 1rem 1rem;*/
     padding: 0.5rem 0.2rem;
     border-color: #242225 #a0a0a0 #f5f3f3;
-    font-size: 19px;
+    font-size: 14px;
     color: #131215;
     background: #fbf9f9;
     margin: 1px;
@@ -451,7 +452,7 @@ header {
     border-top-width: 3px;
     border-color: #b1abc1;
     color: #4f1b88;
-    font-size: 19px;
+    font-size: 16px;
 }
 
 

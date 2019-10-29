@@ -100,13 +100,13 @@ fieldset {
 
 .contact button[type="submit"] {
     cursor: pointer;
-    /*width: 100%;*/
-    border: none;
-    background: #4CAF50;
+    background: #2e887f;
     color: #FFF;
     margin: 0 0 5px;
     padding: 10px;
-    font-size: 15px;
+    font-size: 14px;
+    border-radius: 20px;
+    outline: none;
 }
 
 .contact button[type="submit"]:hover {
@@ -145,20 +145,36 @@ fieldset {
 :-ms-input-placeholder {
     color: #888;
 }
-#implement .bton{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: aliceblue;
-    padding: 10px 30px;
-    border-radius: 10px;
+
+#implement .bton {
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
     outline-style: none;
-    box-shadow: 6px 7px #ccd8d7;
+    box-shadow: 4px 6px #ccd8d7;
     margin-left: 40%;
-    margin-top: 2%;
+    margin-top: 3%;
 }
-#implement .bton a{
-    color: #0b1bda;
-    font-size: 18px;
+
+#implement .bton a {
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+#implementweek2 .bton {
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
+    outline-style: none;
+    box-shadow: 4px 6px #ccd8d7;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+#implementweek2 .bton a {
+    color: #fff;
+    font-size: 15px;
     text-decoration: none;
 }
 
@@ -177,17 +193,17 @@ fieldset {
 #design .designimage button {
     margin-left: auto;
     margin-right: auto;
-    background-color: aliceblue;
-    padding: 10px 20px;
-    border-radius: 10px;
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
     outline-style: none;
-    box-shadow: 6px 7px #ccd8d7;
-    margin-left: 45%;
+    box-shadow: 4px 6px #ccd8d7;
+    margin-left: 40%;
 }
 
 #design .designimage button a {
-    color: #0b1bda;
-    font-size: 18px;
+    color: #fff;
+    font-size: 15px;
     text-decoration: none;
 }
 
@@ -195,18 +211,6 @@ fieldset {
 .bt {
     display: flex;
     justify-content: flex-end;
-}
-
-.bt .btl button {
-    background-color: #ff253a;
-}
-
-.bt .btl button:hover {
-    background-color: #ff0323;
-}
-
-.bt .btr button {
-    background-color: #1c7430;
 }
 
 .bt .btl, .btr {
@@ -309,25 +313,17 @@ fieldset {
 }
 
 .btn {
-    display: inline-block;
     display: inline;
     padding: 10px 12px;
     border: 1px solid #cccccc;
     border-radius: 4px;
-    background-color: #e74c3c !important;
     background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e74c3c", endColorstr="#e74c3c");
-    background-image: -o-linear-gradient(top, #e74c3c, #e74c3c);
-    background-image: linear-gradient(#e74c3c, #e74c3c);
-    border-color: #c0392b;
-    color: #fff !important;
-    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.00);
-    -webkit-font-smoothing: antialiased;
 }
 
 #category-products .product-image img {
     margin-left: 40px;
 }
+
 /*desgn week2*/
 #designweek2 .designleft {
     text-align: center;
@@ -343,16 +339,16 @@ fieldset {
 #designweek2 .designimage button {
     margin-left: auto;
     margin-right: auto;
-    background-color: aliceblue;
-    padding: 10px 20px;
-    border-radius: 10px;
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
     outline-style: none;
-    box-shadow: 6px 7px #ccd8d7;
-    margin-left: 45%;
+    box-shadow: 4px 6px #ccd8d7;
+    margin-left: 40%;
 }
 
 #designweek2 .designimage button a {
     color: #0b1bda;
-    font-size: 18px;
+    font-size: 15px;
     text-decoration: none;
 }
