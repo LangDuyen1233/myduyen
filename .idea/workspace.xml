@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32787ffd-2d3f-4d02-839d-14aeab914697" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/labs4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Lab4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/labs4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Lab5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/baitap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baitap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/labs4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/labs4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/themify-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/themify-icons.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/Lab1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Lab1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/Lab2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Lab2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/Lab3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Lab3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Lab4.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Lab4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/ex1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/ex2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -39,7 +45,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GTNM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Web_group/hci2019group09" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -125,7 +131,14 @@
       <workItem from="1574650417776" duration="586000" />
       <workItem from="1574840933441" duration="3057000" />
       <workItem from="1574845349656" duration="29000" />
-      <workItem from="1574870818429" duration="4532000" />
+      <workItem from="1574870818429" duration="4676000" />
+      <workItem from="1574909712249" duration="1450000" />
+      <workItem from="1574919077112" duration="2439000" />
+      <workItem from="1574945291753" duration="690000" />
+      <workItem from="1576611727081" duration="2458000" />
+      <workItem from="1576656152098" duration="632000" />
+      <workItem from="1576673846080" duration="4070000" />
+      <workItem from="1576685641144" duration="4024000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1570022695554</created>

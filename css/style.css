@@ -32,7 +32,7 @@ Copyright © All rights Reserved
 ----------------------*/
 
 body {
-    font-family: 'Rubik', sans-serif;
+    font-family: Roboto, sans-serif;
     position: relative;
 }
 
@@ -153,8 +153,8 @@ p.lead {
     background-color: #ffffff;
 }
 
-.section {
-    padding: 20px 0;
+.light-bg {
+    padding: 20px 0 0 0;
 }
 
 .section-title {
@@ -207,7 +207,7 @@ p.lead {
 
 @media (min-width: 992px) {
     .navbar-expand-lg .navbar-nav .nav-link {
-        padding-right:0.6rem;
+        padding-right: 0.6rem;
         padding-left: 0.6rem;
         font-size: 15px;
     }
@@ -662,6 +662,13 @@ header {
 /*////*/
 .them {
     font-size: 16px !important;
-    padding: 6px!important;
+    padding: 6px !important;
     margin-inline-end: 12px !important;
+}
+
+footer {
+    border-top: 1px solid !important;
+    background: #49748e !important;
+    height: 80px !important;
+    margin-bottom: 0px !important;
 }

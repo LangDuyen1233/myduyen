@@ -14,7 +14,7 @@ html {
 }
 
 body {
-    font-family: "Lato", sans-serif;
+    font-family: Roboto, sans-serif;
     -webkit-font-smoothing: antialiased;
     font-size: 16px;
     font-weight: 400;
@@ -67,7 +67,7 @@ h6, .h6 {
 }
 
 .section {
-    padding: 0px 0px;
+    padding: 20px 0px;
 }
 
 .section-sm {
@@ -200,11 +200,11 @@ a:hover {
 }
 
 .navbar-nav .nav-link {
-    padding: 20px 15px !important;
+    /*padding: 20px 15px !important;*/
     text-transform: uppercase;
     font-size: 14px;
-    letter-spacing: 1px;
-    font-weight: 700;
+    /*letter-spacing: 1px;*/
+    /*font-weight: 700;*/
 }
 
 ul.dropdown-menu {
@@ -3203,9 +3203,71 @@ textarea.form-control {
 .ti-rss-alt:before {
     content: "\e75f";
 }
+
 /*////*/
-.shuffle-item--visible{
+.shuffle-item--visible {
     padding: 0px;
     margin: 0px;
     max-width: 28.333333% !important;
+}
+
+/*///*/
+#designweek4 .designleft {
+    text-align: center;
+    margin-block-end: 2em;
+}
+
+#designweek4 .designleft img {
+    border: 1px solid #c1c3c7;
+    border-radius: 10px;
+    box-shadow: 15px 15px #d8d8d8;
+}
+
+#designweek4 button {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
+    outline-style: none;
+    box-shadow: 4px 6px #ccd8d7;
+    margin-left: 40%;
+}
+
+#designweek4 button a {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#implementweek4 .bton {
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
+    outline-style: none;
+    box-shadow: 4px 6px #ccd8d7;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+#implementweek4 .bton a {
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.bton {
+    background-color: #071d56;
+    padding: 9px 20px;
+    border-radius: 19px;
+    outline-style: none;
+    box-shadow: 4px 6px #ccd8d7;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+.bton a {
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
 }

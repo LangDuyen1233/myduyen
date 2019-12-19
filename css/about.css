@@ -107,7 +107,7 @@
 
 #about .about-content h2 {
     color: #413e66;
-    font-family: "Montserrat", sans-serif;
+    font-family: Roboto, sans-serif;
     font-weight: 700;
 }
 
@@ -271,7 +271,7 @@
 }
 
 #why-us .counters span {
-    font-family: "Montserrat", sans-serif;
+    font-family: Roboto, sans-serif;
     font-weight: bold;
     font-size: 48px;
     display: block;
@@ -281,7 +281,7 @@
 #why-us .counters p {
     padding: 0;
     margin: 0 0 20px 0;
-    font-family: "Montserrat", sans-serif;
+    font-family: Roboto, sans-serif;
     font-size: 14px;
     color: #8a87b6;
 }
@@ -306,7 +306,7 @@
 }
 
 #call-to-action .cta-btn {
-    font-family: "Montserrat", sans-serif;
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 16px;
     letter-spacing: 1px;
@@ -778,7 +778,7 @@
     padding: 22px 0;
     display: block;
     position: relative;
-    font-family: "Montserrat", sans-serif;
+    font-family: Roboto, sans-serif;
     font-size: 20px;
     line-height: 1;
     font-weight: 400;
@@ -832,7 +832,7 @@
     margin: 0 0 20px 0;
     padding: 2px 0 2px 0;
     line-height: 1;
-    font-family: "Montserrat", sans-serif;
+    font-family: Roboto, sans-serif;
     color: #413e66;
     font-weight: 400;
     letter-spacing: 3px;
@@ -843,7 +843,7 @@
     font-size: 13px;
     line-height: 24px;
     margin-bottom: 0;
-    font-family: "Montserrat", sans-serif;
+    font-family: Roboto, sans-serif;
     color: #535074;
 }
 
