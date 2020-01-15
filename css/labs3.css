@@ -47,7 +47,7 @@
     display: inline;
     justify-content: center;
     text-align: center;
-    font-size: 18px;
+    font-size: 14px;
 }
 
 #implementex1 {
@@ -178,7 +178,7 @@
 
 #designex2 button a {
     color: #fff;
-    font-size: 18px;
+    font-size: 14px;
     text-decoration: none;
 }
 
@@ -206,7 +206,7 @@
 
 #designex1 button a {
     color: #fff;
-    font-size: 18px;
+    font-size: 14px;
     text-decoration: none;
 }
 
@@ -223,7 +223,7 @@
 
 #designex2 button a {
     color: #fff;
-    font-size: 18px;
+    font-size: 14px;
     text-decoration: none;
 }
 
@@ -239,7 +239,7 @@
 
 #implementex1 .bton a {
     color: #fff;
-    font-size: 15px;
+    font-size: 14px;
     text-decoration: none;
 }
 
@@ -255,6 +255,6 @@
 
 .bton a {
     color: #fff;
-    font-size: 15px;
+    font-size: 14px;
     text-decoration: none;
 }
